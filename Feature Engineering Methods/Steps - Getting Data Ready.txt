@@ -1,0 +1,5 @@
+Getting Data ready
+
+Outliers --> Handling Missing Data --> Handling Imbalanced Dataset --> Encoding (One Hot/Ordinal) [Numerical Conversion] --> Feature Scaling 
+
+--> ML algorithm train
